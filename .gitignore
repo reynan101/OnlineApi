@@ -183,3 +183,4 @@ DocProject/Help/Html2
 DocProject/Help/html
 
 # Click-Once directory
+/Online.Api/appsettings.Development.json
